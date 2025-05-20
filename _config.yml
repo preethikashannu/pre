@@ -1,6 +1,6 @@
 # Site settings
 title: PHOTORAMA
-email: ""
+email: "preethikashanmugasundaram@gmail.com"
 description: "Preethika Portfolio"
 url: "https://preethikashannu.github.io"
 baseurl: "/pre"
@@ -8,7 +8,7 @@ facebook_username: ""
 twitter_username: ""
 instagram_username: "prexframess"
 youtube_username : "littlethingsmatters25"
-github_username:  ""
+github_username:  "https://github.com/preethikashannu"
 deviantart_username: ""
 flickr_username: ""
 discus_shortname: ""
