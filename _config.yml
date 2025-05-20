@@ -1,9 +1,9 @@
 # Site settings
 title: PHOTORAMA
 email: ""
-description: "Photo Journal"
-url: "https://sunbliss.github.io"
-baseurl: "/photorama"
+description: "Preethika Portfolio"
+url: "https://preethikashannu.github.io"
+baseurl: "/pre"
 facebook_username: ""
 twitter_username: ""
 instagram_username: ""
@@ -33,9 +33,9 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY: "https://sunbliss.github.io/photorama/gallery/"  
-  - JOURNAL: "https://sunbliss.github.io/photorama/journal/"
-  - ABOUT: "https://sunbliss.github.io/photorama/about/"
+  - GALLERY: "https://preethikashannu.github.io/pre/gallery/"  
+  - JOURNAL: "https://preethikashannu.github.io/pre/journal/"
+  - ABOUT: "https://preethikashannu.github.io/pre/about/"
 
 # All translation keys
 translations:
