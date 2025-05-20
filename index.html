@@ -1,8 +1,8 @@
 ---
 layout: home
-main-title: "PHOT&#8226;O&#8226;RAMA"
-subtitle: "Photo Journal"
-description: "Photography and more"
+main-title: "Preethika Shanumugasundaram"
+subtitle: "Porfolio"
+description: "Photography, Life, and more"
 images:
  - image_path: /img/slider/home01.jpg
    gallery-folder: /img/slider/
@@ -78,22 +78,7 @@ images:
 <div id="footer" role="contentinfo">
 		<ul class="soc-icons">
 
-                 {% if site.facebook_username %}
-			<li>
-   <a href="https://facebook.com/{{ site.facebook_username }}" style="
-color:#dddddd; target="_blank" title="Facebook">
-                       <i class="fa fa-facebook"></i>
-                     </span>
-</a></li>
-    {% endif %}
- {% if site.twitter_username %}
-			<li>
-   <a href="https://twitter.com/{{ site.twitter_username }}" style="
-color:#dddddd; target="_blank" title="Twitter">
-                       <i class="fa fa-twitter"></i>
-                     </span>
-</a></li>
-    {% endif %}
+                 
                 {% if site.instagram_username %}
 			<li>
    <a href="https://instagram.com/{{ site.instagram_username }}" style="
@@ -102,21 +87,14 @@ color:#dddddd; target="_blank" title="Instagram">
                      </span>
 </a></li>
     {% endif %}
-                    {% if site.flickr_username %}
+                    {% if site.youtube_username %}
 						<li>
-   <a href="https://flickr.com/photos/{{ site.flickr_username }}" style="
+   <a href="https://youtube/@{{ site.youtube_username }}" style="
 color:#dddddd; target="_blank" title="Flickr">
-              <i class="fa fa-flickr"></i>
+              <i class="fa fa-youtube"></i>
                      </span>
  </a></li>	
      {% endif %}
-                    {% if site.deviantart_username %}
-			<li>
-   <a href="http://{{ site.deviantart_username }}.deviantart.com" style="
-color:#dddddd; target="_blank" title="DeviantArt">
-<i class="fa fa-deviantart"></i> </span>
-</a></li>	
-    {% endif %}
                     {% if site.github_username %}
                 <li>
    <a href="https://github.com/{{ site.github_username }}" style="
